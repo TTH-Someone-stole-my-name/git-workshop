@@ -1,0 +1,1 @@
+This file was added to demonstrate the effect of branching. I can work continuously on this file on my own branch, without worrying about anything. 
