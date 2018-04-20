@@ -17,4 +17,4 @@ Branching is one of the core elements of Git. It allows you to create your own b
 If you never change your branch, you simply stick with the default branch: `master`. So in Git you are always working on a branch. 
 
 You can branch of any valid point within the Git repository, allowing for maximum flexibility. Of course there is also a way to merge branches back together. 
-And no surprise, that feature is called: `git merge`
+that feature is called: `git merge`
